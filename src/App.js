@@ -50,7 +50,7 @@ function App() {
     <div className="container my-3">
    {/* <Routes>
           <Route exact path = "/about" element = {<About mode={mode} />} />*/}
-          {/*<Route exact path = "/" element =*/} {<Textform  heading = "Try Textutils - Word counter : Character counter : Convert Uppercase to Lowercase And Lowercase to Uppercase" mode={mode} showalert = {showalert}/>} />
+          {/*<Route exact path = "/" element =*/} {<Textform  heading = "Try Textutils - Word counter : Character counter : Convert Uppercase to Lowercase And Lowercase to Uppercase" mode={mode} showalert = {showalert}/>} 
    {/* </Routes>
    
    </Router>*/}
